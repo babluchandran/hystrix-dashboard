@@ -7,8 +7,8 @@ endpoints:
   shutdown:
     enabled: true
 
-server:
-  port: 7979
+#server:
+ # port: 7979
 
 logging:
   level:
